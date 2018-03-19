@@ -7,3 +7,12 @@ theme:
   logo: 'images/guide.svg'
   feature:
     tabs: true
+markdown_extensions:
+    - admonition
+    - codehilite:
+        guess_lang: false
+    - toc:
+        permalink: true
+google_analytics:
+  - 'UA-112526778-4'
+  - 'auto'
