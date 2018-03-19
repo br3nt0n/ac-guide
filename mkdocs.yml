@@ -1,0 +1,9 @@
+site_name: Guide to Armstrong Creek
+theme: 
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'lime'
+  logo: 'images/guide.svg'
+  feature:
+    tabs: true
