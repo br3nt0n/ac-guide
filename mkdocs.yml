@@ -1,6 +1,17 @@
 site_name: Guide to Armstrong Creek
+site_description: A guide to the fast-growing Armstrong Creek, Victoria, Australia area.
+site_author: Brenton Currie
+site_url: https://armstrongcreek.guide
+
+copyright: 'Copyright &copy 2018. All rights reserved. <br> Trademarks remain the property of their relevant owners.'
+
+repo_name: br3nt0n/ac-guide
+repo_url: https://github.com/br3nt0n/ac-guide
+edit_uri: "tree/master/docs"
+
 theme: 
   name: 'material'
+  custom_dir: 'theme'
   palette:
     primary: 'teal'
     accent: 'lime'
