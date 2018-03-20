@@ -6,5 +6,3 @@ Armstrong Creek is a relatively new high growth suburb located approximately 10 
 This guide has been prepared as an independent resource into the Armstrong Creek area. Content within the guide has been classified into three major categories - buying, living and visiting the area.
 
 It's a living resource, that is updated on a regular basis. Feedback can also be submitted.
-
-> Last updated: 19th March, 2018
