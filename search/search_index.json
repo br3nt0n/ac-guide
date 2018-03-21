@@ -2,58 +2,48 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome\n\n\nArmstrong Creek is a relatively new high growth suburb located approximately 10 minutes from Geelong. A number of land estates including Villawood, Warralily and Ashbury form the majority of properties within the suburb.\n\n\nAbout this guide\n\n\nThis guide has been prepared as an independent resource into the Armstrong Creek area. Content within the guide has been classified into three major categories - buying, living and visiting the area.\n\n\nIt's a living resource, that is updated on a regular basis. Feedback can also be submitted.", 
+            "text": "Welcome\n\n\nArmstrong Creek is a community located approximately 10 minutes from Geelong, Victoria, Australia. The area - which up until recently was mostly farming land - comprises around 2,600 heactares of land\n1\n.\n\n\nAbout this guide\n\n\nThis guide has been prepared as an independent resource into the Armstrong Creek area. Content within the guide has been classified into three major categories - buying, living and visiting the area.\n\n\nIt's a living resource, that is updated on a regular basis. Feedback can also be submitted via a GitHub pull request.\n\n\n\n\n\n\n\n\n\n\nAccording to \nCity of Greater Geelong", 
             "title": "Welcome"
         }, 
         {
             "location": "/#welcome", 
-            "text": "Armstrong Creek is a relatively new high growth suburb located approximately 10 minutes from Geelong. A number of land estates including Villawood, Warralily and Ashbury form the majority of properties within the suburb.", 
+            "text": "Armstrong Creek is a community located approximately 10 minutes from Geelong, Victoria, Australia. The area - which up until recently was mostly farming land - comprises around 2,600 heactares of land 1 .", 
             "title": "Welcome"
         }, 
         {
             "location": "/#about-this-guide", 
-            "text": "This guide has been prepared as an independent resource into the Armstrong Creek area. Content within the guide has been classified into three major categories - buying, living and visiting the area.  It's a living resource, that is updated on a regular basis. Feedback can also be submitted.", 
+            "text": "This guide has been prepared as an independent resource into the Armstrong Creek area. Content within the guide has been classified into three major categories - buying, living and visiting the area.  It's a living resource, that is updated on a regular basis. Feedback can also be submitted via a GitHub pull request.      According to  City of Greater Geelong", 
             "title": "About this guide"
         }, 
         {
+            "location": "/about/", 
+            "text": "About Armstrong Creek\n\n\nSuburb overview\n\n\nArmstrong Creek is a relatively new suburb, having been officially gazetted in February 2012. The area resides on farming land that previously was part of nearby Mount Duneed and Connewarre.\n\n\nThe area will be the source of major growth for the Greater Geelong area in the years ahead, and as such is the focus of many major infrastructure and facility investments.", 
+            "title": "About Armstrong Creek"
+        }, 
+        {
+            "location": "/about/#about-armstrong-creek", 
+            "text": "", 
+            "title": "About Armstrong Creek"
+        }, 
+        {
+            "location": "/about/#suburb-overview", 
+            "text": "Armstrong Creek is a relatively new suburb, having been officially gazetted in February 2012. The area resides on farming land that previously was part of nearby Mount Duneed and Connewarre.  The area will be the source of major growth for the Greater Geelong area in the years ahead, and as such is the focus of many major infrastructure and facility investments.", 
+            "title": "Suburb overview"
+        }, 
+        {
             "location": "/buying/", 
-            "text": "Buying at Armstrong Creek", 
+            "text": "Buying at Armstrong Creek\n\n\nAs a relatively new suburb, until recently construction of new dwellings was the best option to move into the Armstrong Creek area with few existing houses available for purchase. \n\n\nHowever, now that there are more established estates, purchasing a house has also become a more feasible option. The median house price is around $478,000 according to Realestate.com.au\n1\n.\n\n\nLand Estates\n\n\nThere are a number of estates selling land within the high growth area including:\n\n\n\n\nArmstrong Villawood\n\n\nWarralily\n\n\nAshbury\n\n\nWatermark\n\n\n\n\nOf the estates, Armstrong Villawood and Warralily are the most advanced with both now having established regions within their estates.\n\n\n\n\n\n\n\n\n\n\nData provided by \nRealestate.com.au\n and current as at March 12, 2018.", 
             "title": "Buying at Armstrong Creek"
         }, 
         {
             "location": "/buying/#buying-at-armstrong-creek", 
-            "text": "", 
+            "text": "As a relatively new suburb, until recently construction of new dwellings was the best option to move into the Armstrong Creek area with few existing houses available for purchase.   However, now that there are more established estates, purchasing a house has also become a more feasible option. The median house price is around $478,000 according to Realestate.com.au 1 .", 
             "title": "Buying at Armstrong Creek"
         }, 
         {
-            "location": "/living/index copy/", 
-            "text": "Living at Armstrong Creek 2", 
-            "title": "Living at Armstrong Creek 2"
-        }, 
-        {
-            "location": "/living/index copy/#living-at-armstrong-creek-2", 
-            "text": "", 
-            "title": "Living at Armstrong Creek 2"
-        }, 
-        {
-            "location": "/living/", 
-            "text": "Living at Armstrong Creek", 
-            "title": "Living at Armstrong Creek"
-        }, 
-        {
-            "location": "/living/#living-at-armstrong-creek", 
-            "text": "", 
-            "title": "Living at Armstrong Creek"
-        }, 
-        {
-            "location": "/visiting/", 
-            "text": "Visiting Armstrong Creek", 
-            "title": "Visiting Armstrong Creek"
-        }, 
-        {
-            "location": "/visiting/#visiting-armstrong-creek", 
-            "text": "", 
-            "title": "Visiting Armstrong Creek"
+            "location": "/buying/#land-estates", 
+            "text": "There are a number of estates selling land within the high growth area including:   Armstrong Villawood  Warralily  Ashbury  Watermark   Of the estates, Armstrong Villawood and Warralily are the most advanced with both now having established regions within their estates.      Data provided by  Realestate.com.au  and current as at March 12, 2018.", 
+            "title": "Land Estates"
         }
     ]
 }
