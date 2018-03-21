@@ -4,7 +4,15 @@
     
     <url>
      <loc>https://armstrongcreek.guide/</loc>
-     <lastmod>2018-03-20</lastmod>
+     <lastmod>2018-03-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://armstrongcreek.guide/about/</loc>
+     <lastmod>2018-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,33 +21,7 @@
         
     <url>
      <loc>https://armstrongcreek.guide/buying/</loc>
-     <lastmod>2018-03-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://armstrongcreek.guide/living/index copy/</loc>
-     <lastmod>2018-03-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://armstrongcreek.guide/living/</loc>
-     <lastmod>2018-03-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://armstrongcreek.guide/visiting/</loc>
-     <lastmod>2018-03-20</lastmod>
+     <lastmod>2018-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
